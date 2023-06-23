@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.main-picture {
+  width: 150px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #e63946;
+  margin-right: 170px;
+  border: 3px solid #d30000;
+  border-bottom: 5px solid #4cc9f0;
+}
+
+.main-text {
+  margin-left: 20px;
+  color: #000000;
+  text-shadow: 2px 2px #ef233c;
+}
+
